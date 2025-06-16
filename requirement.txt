@@ -1,9 +1,9 @@
 #download the trained model weights in the given google drive link , and update the code ; where model_path = path_to_the_weights_file
 
-!pip3 install opencv-python
-!pip3 install numpy
-!pip3 install ultralytics
-!pip3 install deep_sort_realtime
-!pip3 install torch
-!pip3 install torchvision
-!pip3 install torchaudio
+opencv-python
+numpy
+ultralytics
+deep_sort_realtime
+torch
+torchvision
+torchaudio
